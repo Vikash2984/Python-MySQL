@@ -1,2 +1,2 @@
 # Python-MySQL
-This repository contains boilerplate snippets for Python-MySQL interface and handwritten documentation on all MySQL DDL/DML Commands, Clauses, Aggregators e.t.c.  
+This repository contains boilerplate snippets for Python-MySQL interface and handwritten documentation on all MySQL <b>DDL/DML Commands, Clauses, Aggregators</b> e.t.c.  
