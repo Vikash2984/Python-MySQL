@@ -4,3 +4,4 @@ This repository contains <b>boilerplate snippets</b> for Python-MySQL interface 
 <ul>
   <li>MySQL Short Notes : </li>
 </ul>
+<hr>
